@@ -12,4 +12,5 @@ public class Countrymapmain {
 	           System.out.println("Country: " + entry.getKey() + ", Capital: " + entry.getValue());
 	       }
 	   }
+	   
 	}
